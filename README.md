@@ -9,7 +9,7 @@
 
 <h2 align="center">Currently learning:</h2>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <img width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
@@ -22,7 +22,7 @@
 
 <h2 align="center">I'm intend to learn:</h2>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <img width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" />
   <img width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
@@ -43,7 +43,7 @@
 
 <br>
 
-<h2 align="center">Contact me:</h2>
+<h2 align="center" style="display: inline_block">Contact me:</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabriel-moraes-ribeiro/" target="_blank">
