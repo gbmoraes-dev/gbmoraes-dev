@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi dear,+I'm+Gabriel+Moraes+👋🏼;I'm+from+Brazil;Be+Welcome!+🙂+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+dear%2C+I'm+Gabriel+Moraes+%F0%9F%91%8B%F0%9F%8F%BC;I'm+From+Brazil;Be+Welcome!+%F0%9F%99%82)](https://git.io/typing-svg)
