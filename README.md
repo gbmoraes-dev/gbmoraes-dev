@@ -1,1 +1,1 @@
-<h1>Hi dear, <img src="https://raw.githubusercontent.com/KaueMarques/KaueMarques/master/hi.gif"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Hi dear,+I'm+Gabriel+Moraes+👋🏼;I'm+from+Brazil;Be+Welcome!+🙂+:%29)](https://git.io/typing-svg)
