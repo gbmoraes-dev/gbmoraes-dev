@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gbmoraes-dev&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=F7F052&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Moraes Ribeiro github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbmoraes-dev&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gbmoraes-dev&theme=dark&mode=weekly" />&nbsp;&nbsp;&nbsp;
+  <img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gbmoraes-dev&show_icons=true&theme=dark&layout=compact" />
 </div>
 
 <h2 align="center">Currently learning:</h2>
@@ -13,7 +13,7 @@
   <img alt="Typescript" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img alt="NodeJS" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img alt="NestJS" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  <img alt="Java" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
+  <img alt="Go" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img alt="C" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img alt="Docker" width="35" heigth="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </div>
@@ -24,7 +24,7 @@
 
 <div align="center" style="display: inline_block">
   <img alt="Rust" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
-  <img alt="Go" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+  <img alt="Java" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
   <img alt="GraphQL" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img alt="Kubernets" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
   <img alt="Apache Kafka" width="30" heigth="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
