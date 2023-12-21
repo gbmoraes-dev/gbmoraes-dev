@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gbmoraes-dev&theme=dark&mode=weekly" />&nbsp;&nbsp;&nbsp;
-  <img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gbmoraes-dev&show_icons=true&theme=dark&layout=compact" />
+  <img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gbmorraes-dev&show_icons=true&theme=dark&layout=compact" />
 </div>
 
 <h2 align="center">Currently learning:</h2>
