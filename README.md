@@ -2,9 +2,15 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=1000&lines=Hi+dear%2C+I'm+Gabriel+Moraes+Ribeiro;I'm+from+Brazil;Be+Welcome!+%3A)" alt="Typing SVG" /></a>
 </h1>
 
+<div align="center">
+<a href="https://github.com/oakoudad/badge42"><img width=40% src="https://badge.mediaplus.ma/darkblue/gamoraes?1337Badge=off&UM6P=off" alt="gamoraes 42 stats"/></a>
+</div>
+
+<h2 align="center">My stats:</h2>
+
 <div align="center">  
-  <img width=40% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=gbmoraes-dev&theme=dark&mode=weekly" />&nbsp;&nbsp;&nbsp;
-  <img width=41% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gbmoraes-dev&show_icons=true&theme=dark&layout=compact" />
+  <a href="https://git.io/streak-stats"><img width=45% align="center" src="https://streak-stats.demolab.com?user=gamoraes&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>
+  <img width=35% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=gbmoraes-dev&show_icons=true&theme=transparent&hide_border=true&layout=compact" />
 </div>
 
 <h2 align="center">Currently learning:</h2>
