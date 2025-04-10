@@ -6,6 +6,10 @@
 
 <li>🎓 Currently studying Computer Science at IBMR.</li>
 <li>🚀 Cadet at 42 Rio, a global reference in Software Engineering education.</li>
+<li>💡 Software Architecture and DevOps enthusiast.</li>
+<li>💻 Backend Software Engineer focusing on building scalable systems.</li>
+<li>🔍 Passionate about solving complex problems through clean code and efficient systems.</li>
+<li>🤝 Open to collaborate on innovative backend projects.</li>
 
 <div style="display: flex; justify-content: space-between;">
   <!---
